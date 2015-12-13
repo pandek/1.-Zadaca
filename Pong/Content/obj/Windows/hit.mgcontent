@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>E:/Faks/3. semestar/C#/1_-_DZ/ConsoleApplication1/Pong/Content/hit.wav</SourceFile>
+  <SourceTime>2015-12-10T19:38:01.8019568+01:00</SourceTime>
+  <DestFile>E:/Faks/3. semestar/C#/1_-_DZ/ConsoleApplication1/Pong/Content/bin/Windows/hit.xnb</DestFile>
+  <DestTime>2015-12-10T19:46:17.2978147+01:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2015-04-29T19:14:44+02:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2015-04-29T19:14:44+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
